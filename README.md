@@ -3,8 +3,6 @@
 
 This repository contains the **pipeline used to generate and validate the SIESTA Single-Elements dataset**, a collection of **30,000 self-consistent DFT calculations** for Al, Fe, and Ni.
 
-[![DOI](https://zenodo.org/badge/1177077582.svg)](https://doi.org/10.5281/zenodo.20126107)
-
 The repository provides scripts to:
 
 - generate perturbed atomic configurations
